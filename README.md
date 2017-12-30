@@ -3,3 +3,7 @@
 
 www.headfirstlabs.com/books/hfprog  
 programming.itcarlow.ie  
+
+https://wiki.python.org/moin/PythonBooks
+
+<<学习python (Learning Python)>>
